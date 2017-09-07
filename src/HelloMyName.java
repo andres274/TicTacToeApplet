@@ -1,10 +1,10 @@
 /**
  * Purpose "Hello username, Welcome to CSC200 class! and Your password is XXXXXX".
  * @author Andres Montenegro
+ * @version 1.0
  */
 
 import java.util.Scanner;
-
 public class HelloMyName {
     public static void main(String[] args) {
         String username, password;
